@@ -336,12 +336,20 @@ skills__tech{
     .main{
     
         padding: 0 0.4em 0 0.4em;
+        
     }
     .column{
         padding: 0%;
+        
     }
     .card{
         padding: 0 0.1em 0 0.1em;
+       
     }
+    .buttons{
+        margin-bottom: 30px;
+        margin-top: 10px;
+    }
+
 
 }
