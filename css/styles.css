@@ -26,7 +26,7 @@ a{
 }
 img{
     max-width: 100%;
-    display: block;
+    /* display: block; */
 }
 body.dark{
     --text-color:hsl(0, 0%, 83%);
@@ -114,7 +114,9 @@ body.dark{
     display: grid;
     padding: 2em;
     gap :0.5em;
+    min-width: 320px;
 }
+
 @media screen and (min-width:720px){
     .main{
         grid-template-columns: min-content 1fr;
@@ -123,6 +125,7 @@ body.dark{
 .column{
     display: grid;
     gap: 0.5em;
+    width: 100%;
 }
 @media screen and (min-width:720px){
     .column--right{
@@ -326,4 +329,19 @@ skills__tech{
     to{
         transform: translateX(var(--skills-bar-length));
     }
+}
+
+
+@media screen and (max-width:719px) and (min-width:320px){
+    .main{
+        /* width: 100%; */
+        padding: 0%;
+    }
+    .column{
+        padding: 0%;
+    }
+    .card{
+        padding: 0 0.1em 0 0.1em;
+    }
+
 }
