@@ -1,6 +1,32 @@
 {
     "profile":{
-        "rol":"Desarrollador Front-end"
-         
+        "rol":"Desarrollador Front-end",
+        "description": "Más de 3 años de experiencia en Desarrollo web, Apasionado de las nuevas Tecnologias y en especial del ecosistema de css y javascript. <br> Mi propósito es trasladar mi pasión por enseñar tecnologias web a todos aquellos que quieran iniciarse en este campo de una forma actualizada, con buenas practicas y desde cero." 
+    },
+    "experiences":{
+        "title": "Experiencias",
+
+        "fecha-1": "Febrero de 2020 - Actualidad",
+        "title-1": "Desarrollador front-end",
+        "description-1": "Desarrollador front-end combina el arte del diseño con la lógica del código. Puedes dar vida a interfaces atractivas, animaciones, efectos visuales y experiencias de usuario únicas.",
+
+        "fecha-2": "Febrero de 2020 - Actualidad",
+        "title-2": "Desarrollador back-end",
+        "description-2": "El backend es el responsable de manejar bases de datos, autenticación, APIs, servidores, sin esto, el frontend sería solo una maqueta vacía.Hay  retos como la gestión de miles (o millones) de peticiones, la seguridad de la información, el diseño de arquitecturas limpias y eficientes.",
+
+        "fecha-3": "Febrero de 2024 - Actualidad",
+        "title-3": "Desarrollador full stack",
+        "description-3": "Al conocer el frontend y el backend, entiendes el sistema en su totalidad. Puedes diseñar y construir aplicaciones de principio a fin, puedes desarrollar proyectos propios sin depender de otros perfiles. Desde una idea hasta una aplicación funcional: tú puedes hacerlo todo"
+    },
+    "hobbies":{
+        "title":"Pasatiempos",
+        "sub-title": "Escuchar musica",
+        "description": "Escuchar música no es solo un pasatiempo, es una herramienta que me acompaña y potencia mi concentración, creatividad y productividad. A través de auriculares o altavoces, la música se convierte en el compañero invisible durante largas sesiones de desarrollo, resolución de problemas o diseño de sistemas."
+    },
+    "skills":{
+        "fecha-1": "Años de experiencia",
+
+        "title-3": "Arquitectura y Sistemas",
+        "sub-title-3": "Virtualización"
     }
 }

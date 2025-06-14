@@ -1,6 +1,32 @@
 {
     "profile":{
-        "rol":"Front end developer"
-         
+        "rol":"Front end developer",
+        "description": "Over 3 years of experience in web development. Passionate about new technologies, especially the CSS and JavaScript ecosystem. <br>My goal is to share my passion for teaching web technologies with anyone who wants to get started in this field in an up-to-date way, with best practices, and from the ground up."
+    },
+    "experiences":{
+        "title": "Experiences",
+
+        "fecha-1": "Feb 2020 - Currient",
+        "title-1":"Front End Developer",
+        "description-1": "A front-end developer combines the art of design with the logic of code. You can bring engaging interfaces, animations, visual effects, and unique user experiences to life.",
+
+        "fecha-2": "Feb 2020 - Current",
+        "title-2": "Back End Developer",
+        "description-2": "The backend is responsible for managing databases, authentication, APIs, and servers. Without this, the frontend would be just an empty mockup.There are challenges such as managing thousands (or millions) of requests, ensuring information security, and designing clean and efficient architectures.",
+
+        "fecha-3": "Feb 2024 - Current",
+        "title-3": "Full Stack Developer",
+        "description-3": "By understanding the frontend and backend, you understand the system in its entirety. You can design and build applications from start to finish, and you can develop your own projects without relying on other profiles. From an idea to a functional application: you can do it all."
+    },
+    "hobbies":{
+        "title":"Hobbies",
+        "sub-title": "Listen to music",
+        "description": "Listening to music isn't just a hobby; it's a tool that accompanies me and boosts my focus, creativity, and productivity. Whether through headphones or speakers, music becomes an invisible companion during long development, problem-solving, or system design sessions."
+    },
+    "skills":{
+        "fecha-1": "Years of experience",
+
+        "title-3": "Architecture and Systems",
+        "sub-title-3": "Virtualization"
     }
 }
