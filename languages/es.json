@@ -28,5 +28,56 @@
 
         "title-3": "Arquitectura y Sistemas",
         "sub-title-3": "Virtualización"
+    },
+     "project-10":{
+        "title":"Perfil",
+        "description-1":"Este proyecto de perfil donde se subi la informacion personal del interesado con nombre , interes, email y telefono al igual que tre iconos de redes sociales como linkedin , youtube y github.",
+        "description-2":"Se puede desarrollar y escalar cunato quieran ustedes , con html, javaScript y css . Tambien se puede acceder de dispositivos moviles , se adapta para un experiencia intuitiva y moderna para el usuario."
+    },
+     "project-9":{
+        "title":"Adivinazas",
+        "description-1":"Este juego de adivinazas donde vemos una interfaz bastante moderna, bien intuitiva con cantidad de acertdas de nombre nizuta con la primera pregunta pero nosiempre se carga la misma pregunta va cambiando al cargar el DOM.",
+        "description-2":"Una vez se responda la pregunta se descrpliega se fue correcto o incorrecto, en caso de ser incorrecta la respuesta debe volver a responder hasta que sea correcta la respuesta, una vez ya este correcta la respuesta pasa a la siguiente pregunta y se incrementa la cantidad de acertadas mientras vaya respondiendo correctamente."
+    },
+    "project-8":{
+        "title":"Agenda de Contactos",
+        "description-1":"Este es un Proyecto que mustra una agenda de contacto de la era digital , ya no tenemos más los libros donde guardamos nuestros contactos, ahora tenemos una agenda de contactos totalmente digital ¿Que es una agenda digital?. ",
+        "description-2":"Es una plataforma como la que vemos intuitiva y moderna diseñada para ayudarnos a nosotros a almacenar y acceder a nuestros contactos de manera totalmente eficientes asegurando que nunca perdamos una conexion valiosa, se puede agregar nombre y número de contacto tambien eliminar y buscar contacto."
+    },
+    "project-7":{
+        "title":"Reproductor",
+        "description-1":"Para todos aquellos que aman la musica y quieren tener un control total sobre sus pistas, en este case  se realizo un reproductor de musica personal ¿ Que es el reproductor de musica?.",
+        "description-2":"Es una Herramienta mus interativa que nos va permitir a nosotros o a los usuarios que la usen subir sus propios archivos de musica y escucharlo directamente desde su navegador ,si nosostros podemos subir lo que seria nuestros archivos , la interfaz es bastante intuitiva con un diseño contemporaneo para que cualquier persona pueda usarlo  facilmente."
+    },
+    "project-6":{
+        "title":"Netflix",
+        "description-1":"Refleja la interfaz que mushos de nosotros conocemos y usamos a diario o casi siempre que es el clon de login de netflix ¿ Que es el clon de login de  netflix?",
+        "description-2":"Es una reproducción practicamente precisa de ldiseño y la funcionalidad de la pagina de inicio de sesion de netflix o que en algun momento fue desarrollada principalmente par fines educativos como se realizo. Tiene la apariencia masomenos exacta  que esperariamos nosotros al ingresar al servicio de netflix."
+    },
+    "project-5":{
+        "title":"Editor",
+        "description-1":"Es un proyecto que se puede escalar pero para hacerlo simple utilizando estas tecnologias como html, javaScript y css, es un desafio y bastante interezante , es una especie de editor donde se ejecutara como un editor de visual studio.",
+        "description-2":"Se puede realizar procesos en javaScript que se visualizaran en la consola , estoy seguro que más de uno se a preguntado si pude hacer su propio editor de codigo pues como puden ver si se puede y funciona de la misma manera que un editor de codigo."
+    },
+    "project-4":{
+        "title":"Generador de Colores",
+        "description-1":"Es una herramienta realmente intuitiva diseñada para los que son creativos, desarrolladores y que culaquier persona que ame los colores la pueda utilizar con solo un click podemos explorar , generar y personalizar paletas de colores para culaquier proposito.",
+        "description-2":"Tiene algunas funcionalidades como una interfaz bastante moderna, una experiencia de usuario bastante limpia, atractiva que juega con los colores, tiene sus paletas de colores personalizada, nosotros podemos generar combinaciones basadas en tendencias actuales o crear nuestras propias desde cero."
+    },
+    "project-3":{
+        "title":"Lista de todo",
+        "description-1":"Es una aplicaión digital que nos va servir para gestionar tareas y esto es  realmente importante para poder nosotros hacer alfun tipo de rastreo a lo que  debemos hacer, es una herramienta que nos va ayudar a mantener un orden asegurando que no nos olvidemos alguna tarea importante.",
+        "description-2":"Siempre recuerden que todos los proyectos se pueden escalar, podemos agregarle mas funcionalidades pero para el principio de este proyecto esta bien. entoces tenemos un proyecto creado en html, javaScript y css en el cual tenemos un formulario."
+    },
+    "project-2":{
+        "title":"Calculadora BMI",
+        "description-1":"Es una calculadora que va medir el indice de masa corporal,el BMI es el indice de masa corporal utilizada para estimas la masa corparal basada entre la relacion de peso y altura de una persona.",
+        "description-2":"Realmente es una herramienta que muchos profesionales de la salud utilizan para identiifcar las categorias de peso que pueden conducir a problemas de salud. Tiene una interfaz bastante amigable y moderna donde nosotros podemos introducir tanto nuestro peso y altura, entoces tendremos una retroalimentacion visual donde vamos a descubrir si nuestro peso es bajo, normal, elevado o si hay obesidad."
+    },
+    "project-1":{
+        "title":"Calculadora de amor",
+        "description-1":"Es un Proyecto de ustilizando html, javaScript y css . Consiste en calcular la compatibilidad entre dos personas , dependiendo del numero que se despligue al momento de introducir los 2 nombres de los interesados , mientras más alto sea el numero significa mayor compatibilidad.",
+        "description-2":"Tambien se adapta par adispositivos moviles que es muy combeniente ya que se utiliza mas el celular ,asi tambien se se utiliza funciones de javaScript para este proceso y para la parte de resposive se ejecuta en la parte de css ."
     }
+
 }

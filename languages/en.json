@@ -28,5 +28,55 @@
 
         "title-3": "Architecture and Systems",
         "sub-title-3": "Virtualization"
+    },
+     "project-10":{
+        "title":"Profile",
+        "description-1":"This profile project includes the interested party's personal information, including name, interest, email address, and phone number, as well as three social media icons such as LinkedIn, YouTube, and GitHub.",
+        "description-2":"It can be developed and scaled to your liking, using HTML, JavaScript, and CSS. It can also be accessed from mobile devices, adapting to provide an intuitive and modern user experience."
+    },
+     "project-9":{
+        "title":"Riddles",
+        "description-1":"This guessing game has a fairly modern, intuitive interface with a number of correct answers, called Nizuta, but the first question doesn't always load the same question, changing as the DOM loads",
+        "description-2":"Once the question is answered, it is displayed whether it was correct or incorrect. If the answer is incorrect, you must answer again until the answer is correct. Once the answer is correct, move on to the next question and the number of correct answers increases as you continue to answer correctly."
+    },
+    "project-8":{
+        "title":"Contact Book",
+        "description-1":"This is a project that shows a contact book of the digital age, we no longer have books where we keep our contacts, now we have a completely digital contact book. What is a digital book?",
+        "description-2":"It's a platform we see as intuitive and modern, designed to help us store and access our contacts in a completely efficient manner, ensuring that we never lose a valuable connection. You can add contact names and numbers, as well as delete and search for contacts."
+    },
+    "project-7":{
+        "title":"Reproductive",
+        "description-1":"For all those who love music and want to have total control over their tracks, in this case a personal music player was made. What is the music player?.",
+        "description-2":"It is a very interactive tool that will allow us or the users who use it to upload their own music files and listen to them directly from their browser. We can upload what would be our files. The interface is quite intuitive with a contemporary design so that anyone can use it easily."
+    },
+    "project-6":{
+        "title":"Netflix",
+        "description-1":"It reflects the interface that many of us know and use daily or almost always, which is the Netflix login clone. What is the Netflix login clone?",
+        "description-2":"It's a nearly exact reproduction of the design and functionality of the Netflix login page, or it was once developed primarily for educational purposes. It looks more or less exactly like what we would expect when logging into the Netflix service."
+    },
+    "project-5":{
+        "title":"Editor",
+        "description-1":"It is a project that can be scaled, but to keep it simple using technologies like HTML, JavaScript, and CSS is challenging and quite interesting. It is a kind of editor that will run like a Visual Studio editor.",
+        "description-2":"You can perform processes in JavaScript that will be displayed in the console. I'm sure that more than one person has wondered if they could make their own code editor. As you can see, it is possible and works in the same way as a code editor."
+    },
+    "project-4":{
+        "title":"Color Generator",
+        "description-1":"It is a truly intuitive tool designed for creatives, developers, and anyone who loves colors. With just one click, we can explore, generate, and customize color palettes for any purpose.",
+        "description-2":"It has some features like a fairly modern interface, a fairly clean, attractive user experience that plays with colors, it has its own personalized color palettes, we can generate combinations based on current trends or create our own from scratch. "
+    },
+    "project-3":{
+        "title":"Todo List",
+        "description-1":"It's a digital application that will help us manage tasks, and this is really important so we can keep track of what we need to do. It's a tool that will help us maintain order, ensuring we don't forget any important tasks.",
+        "description-2":"Always remember that all projects can be scaled. We can add more features, but for the beginning of this project, this is fine. So, we have a project created in HTML, JavaScript, and CSS with a form. "
+    },
+    "project-2":{
+        "title":"Calculator BMI",
+        "description-1":"It is a calculator that will measure the body mass index, the BMI is the body mass index used to estimate body mass based on the ratio of a person's weight and height.",
+        "description-2":"It's actually a tool that many health professionals use to identify weight categories that can lead to health problems. It has a user-friendly and modern interface where we can enter both our weight and height. We'll then receive visual feedback showing whether we're underweight, normal weight, overweight, or obese."
+    },
+    "project-1":{
+        "title":"Love Calculator",
+        "description-1":"It's a project using HTML, JavaScript, and CSS. It involves calculating the compatibility between two people, depending on the number displayed when entering the names of both interested parties. The higher the number, the greater the compatibility.",
+        "description-2":"It is also adapted for mobile devices, which is very convenient since cell phones are used more. JavaScript functions are also used for this process, and for the responsive part, it is executed in the CSS part."
     }
 }
