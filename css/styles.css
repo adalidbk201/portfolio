@@ -26,7 +26,11 @@ a{
 }
 img{
     max-width: 100%;
-     
+   
+}
+.card__img-container .card__image{
+    width: 320px;
+    height: 320px;
 }
 body.dark{
     --text-color:hsl(0, 0%, 83%);
