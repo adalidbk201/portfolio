@@ -29,6 +29,10 @@
         "title-3": "Arquitectura y Sistemas",
         "sub-title-3": "Virtualización"
     },
+     "project-15":{
+        "title":"Business Stratday Group",
+        "description-1":"Business StratDay Group es un sitio web corporativo simulado que representa la imagen de un evento o servicio de planificación estratégica (“Strategy Day”) para empresas. Incluye una presentación clara de la propuesta de valor (trabajar con equipos de dirección, definir visión, misión, prioridades), secciones de servicios, testimonios o llamados a la acción, y un diseño formal y enfocado en negocios." 
+    },
      "project-14":{
         "title":"Ventas y Suscripciones",
         "description-1":"Ventas & Suscripción es un sitio web que simula un sistema de gestión de ventas y suscripciones para negocios, donde los usuarios pueden explorar planes, registrar clientes, y procesar pagos periódicos. Presenta un diseño moderno, enfocado en la experiencia de usuario y en la funcionalidad de suscripción recurrente, ideal para demostrar tus competencias en desarrollo de interfaces, lógica de negocio y gestión de pagos." 
