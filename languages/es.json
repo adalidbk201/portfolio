@@ -29,6 +29,10 @@
         "title-3": "Arquitectura y Sistemas",
         "sub-title-3": "Virtualización"
     },
+     "project-13":{
+        "title":"Reservas de Hotel",
+        "description-1":"Hotel Reservas es una web de reservas hoteleras creada como proyecto demostrativo. Incluye secciones como “Bienvenido”, “Planes” (romántico, luna de miel, aventura, spa), “Habitaciones” con tarifas diferenciadas por tipo, “Recorrido por el pueblo”, “Restaurante” y “Contáctenos”. El diseño es elegante y versátil, con navegación clara y enfoque en experiencias‑turísticas." 
+    },
      "project-12":{
         "title":"Blog de viajes",
         "description-1":"Blog Viajero es una página web tipo blog diseñada para compartir experiencias de viaje por distintas regiones del mundo, como América, Europa, Asia y más. Cuenta con una estructura organizada por continentes, entradas destacadas con imágenes, una sección “Sobre mí” y enlaces a redes sociales. El diseño es limpio y funcional, ideal para un blog personal de viajes o exploración cultural." 

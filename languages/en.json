@@ -29,6 +29,10 @@
         "title-3": "Architecture and Systems",
         "sub-title-3": "Virtualization"
     },
+     "project-13":{
+        "title":"Hotel Reservations",
+        "description-1":"HotelReservas is a hotel reservation website created as a demonstration project. It includes sections such as Welcome, Plans (romantic, honeymoon, adventure, spa), Rooms with differentiated rates by type, Village Tour, Restaurant, and Contact Us. The design is elegant and versatile, with clear navigation and a focus on tourism experiences."
+    },
      "project-12":{
         "title":"Travel Blog",
         "description-1":"Blog Viajero is a blog-style website designed to share travel experiences throughout different regions of the world, including the Americas, Europe, Asia, and more. It features a structure organized by continent, featured posts with images, an About Me section, and social media links. The design is clean and functional, ideal for a personal travel blog or cultural exploration."
