@@ -29,6 +29,10 @@
         "title-3": "Arquitectura y Sistemas",
         "sub-title-3": "Virtualización"
     },
+     "project-12":{
+        "title":"Blog de viajes",
+        "description-1":"Blog Viajero es una página web tipo blog diseñada para compartir experiencias de viaje por distintas regiones del mundo, como América, Europa, Asia y más. Cuenta con una estructura organizada por continentes, entradas destacadas con imágenes, una sección “Sobre mí” y enlaces a redes sociales. El diseño es limpio y funcional, ideal para un blog personal de viajes o exploración cultural." 
+    },
      "project-11":{
         "title":"Página de inicio de sesión 1",
         "description-1":"Esta es una página web sencilla diseñada como interfaz de inicio de sesión. Presenta un diseño limpio con un título principal (“Inicio de Sesión”), una imagen decorativa y un botón de acceso (“Ingresar”). Su estructura básica la hace ideal como punto de partida para desarrollos futuros, como la integración de validación de usuarios o conexión a bases de datos." 

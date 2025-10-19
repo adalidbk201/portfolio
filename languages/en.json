@@ -29,6 +29,10 @@
         "title-3": "Architecture and Systems",
         "sub-title-3": "Virtualization"
     },
+     "project-12":{
+        "title":"Travel Blog",
+        "description-1":"Blog Viajero is a blog-style website designed to share travel experiences throughout different regions of the world, including the Americas, Europe, Asia, and more. It features a structure organized by continent, featured posts with images, an About Me section, and social media links. The design is clean and functional, ideal for a personal travel blog or cultural exploration."
+    },
      "project-11":{
         "title":"Login Page 1",
         "description-1":"This is a simple web page designed as a login interface. It features a clean design with a main title (Login), a decorative image, and a login button (Enter). Its basic structure makes it an ideal starting point for future developments, such as integrating user validation or connecting to databases."
