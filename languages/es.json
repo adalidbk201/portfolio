@@ -29,6 +29,10 @@
         "title-3": "Arquitectura y Sistemas",
         "sub-title-3": "Virtualización"
     },
+     "project-11":{
+        "title":"Página de inicio de sesión 1",
+        "description-1":"Esta es una página web sencilla diseñada como interfaz de inicio de sesión. Presenta un diseño limpio con un título principal (“Inicio de Sesión”), una imagen decorativa y un botón de acceso (“Ingresar”). Su estructura básica la hace ideal como punto de partida para desarrollos futuros, como la integración de validación de usuarios o conexión a bases de datos." 
+    },
      "project-10":{
         "title":"Perfil",
         "description-1":"Este proyecto de perfil donde se subi la informacion personal del interesado con nombre , interes, email y telefono al igual que tre iconos de redes sociales como linkedin , youtube y github.",

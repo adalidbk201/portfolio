@@ -29,6 +29,10 @@
         "title-3": "Architecture and Systems",
         "sub-title-3": "Virtualization"
     },
+     "project-11":{
+        "title":"Login Page 1",
+        "description-1":"This is a simple web page designed as a login interface. It features a clean design with a main title (Login), a decorative image, and a login button (Enter). Its basic structure makes it an ideal starting point for future developments, such as integrating user validation or connecting to databases."
+    },
      "project-10":{
         "title":"Profile",
         "description-1":"This profile project includes the interested party's personal information, including name, interest, email address, and phone number, as well as three social media icons such as LinkedIn, YouTube, and GitHub.",
