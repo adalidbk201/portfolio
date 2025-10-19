@@ -29,6 +29,10 @@
         "title-3": "Architecture and Systems",
         "sub-title-3": "Virtualization"
     },
+     "project-14":{
+        "title":"Sales & Subscription",
+        "description-1":"Sales&Subscription is a website that simulates a sales and subscription management system for businesses, where users can explore plans, register customers, and process recurring payments. It features a modern design, focused on user experience and recurring subscription functionality, ideal for showcasing your skills in interface development, business logic, and payment management."
+    },
      "project-13":{
         "title":"Hotel Reservations",
         "description-1":"HotelReservas is a hotel reservation website created as a demonstration project. It includes sections such as Welcome, Plans (romantic, honeymoon, adventure, spa), Rooms with differentiated rates by type, Village Tour, Restaurant, and Contact Us. The design is elegant and versatile, with clear navigation and a focus on tourism experiences."
